@@ -1,0 +1,12 @@
+construct isaac.asimov {
+  name {
+    en "Isaac Asimov"
+  }
+
+  links {
+    britannica "https://www.britannica.com/biography/Isaac-Asimov"
+    dbpedia "https://dbpedia.org/page/Isaac_Asimov"
+    wikidata "https://www.wikidata.org/wiki/Q34981"
+    wikipedia "https://en.wikipedia.org/wiki/Isaac_Asimov"
+  }
+}
